@@ -1,0 +1,27 @@
+<div id="warp">
+			<div id="head">
+				<a href="http://www.baidu.com"></a><span class="iconfont icon-baidu" style="color: deepskyblue;"></span>
+				<input type="text" id="search"/>
+				<button class="iconfont icon-baidu" style="color: deepskyblue;">一下</button>
+			</div>
+			<nav>
+				<ul ng-controller="mainlist">
+					<li ng-repeat="item in mainlist"><a href="{{item.href}}" target="_blank">
+							<span class="iconfont {{item.icon}}" style="color:{{item.color}} ;"></span>
+							<p>{{item.name}}</p>
+					</a></li>
+				</ul>
+			</nav>
+			<section>
+				<ul ng-controller="developer">
+					<li ng-repeat="item in developer"><a href="{{item.href}}" target="_blank">
+							<span class="iconfont {{item.icon}}" style="color: {{item.color}};"></span>
+							<p>{{item.name}}</p>
+					</a></li>
+				</ul>
+			</section>
+			<asider>
+				<!--ul>li-->
+			</asider>
+			
+		</div>

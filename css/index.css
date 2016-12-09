@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-size: 100px;
+  background-image: url("http://og3i9vpbe.bkt.clouddn.com/978421.jpg"); }
+
+a {
+  color: black;
+  text-decoration: none;
+  target: _balnk; }
+
+#warp {
+  width: 1000px;
+  height: auto;
+  margin: 0.2rem auto;
+  background: rgba(255, 255, 255, 0.7);
+  padding-top: 0.5rem; }
+  #warp #head {
+    width: 90%;
+    height: 0.5rem;
+    margin: auto;
+    display: flex; }
+    #warp #head span {
+      flex: 1; }
+    #warp #head input {
+      flex: 3;
+      font-size: 0.3rem; }
+    #warp #head button {
+      flex: 1; }
+    #warp #head .iconfont {
+      text-align: center;
+      line-height: 0.5rem;
+      font-size: 0.3rem; }
+  #warp nav {
+    width: 900px;
+    height: auto;
+    margin: 0.5rem auto; }
+    #warp nav ul {
+      width: 900px;
+      height: auto;
+      display: flex; }
+      #warp nav ul li {
+        flex: 1;
+        border: 1px solid green;
+        font-size: 0.2rem;
+        text-align: center; }
+        #warp nav ul li .iconfont {
+          font-size: 0.3rem;
+          text-align: center; }
+  #warp section {
+    width: 900px;
+    height: auto;
+    margin: auto; }
+    #warp section ul {
+      width: 900px;
+      height: auto;
+      display: flex;
+      flex-wrap: wrap; }
+      #warp section ul li {
+        width: 150px;
+        height: 70px;
+        font-size: 0.3rem;
+        text-align: center; }
+        #warp section ul li .iconfont {
+          font-size: 0.3rem;
+          text-align: center; }
+        #warp section ul li p {
+          font-size: 0.2rem; }
+
+/*# sourceMappingURL=index.css.map */
