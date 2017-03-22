@@ -207,6 +207,48 @@
         "icon":"icon-Fm8RVIQuNz",
         "name":"webpack教程",
         "color":"#1296db"
+      },
+      {
+        "href":"http://mail.sina.com.cn/?from=mail",
+        "icon":"icon-youxiang",
+        "name":"新浪邮箱",
+        "color":"#d4237a"
+      },
+      {
+        "href":"http://www.rabbitpre.com/",
+        "icon":"icon-tubiaotu",
+        "name":"兔展",
+        "color":"#d81e06"
+      },
+      {
+        "href":"https://hackdesign.org/",
+        "icon":"icon-design",
+        "name":"HackDesign",
+        "color":"#1afa29"
+      },
+      {
+        "href":"https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1474644083132",
+        "icon":"icon-weixinxiaochengxu",
+        "name":"微信小程序教程",
+        "color":"#008B00"
+      },
+      {
+        "href":"http://www.cnblogs.com/jingliu/",
+        "icon":"icon-bokeyuan",
+        "name":"博客园",
+        "color":"#1296db"
+      },
+      {
+        "href":"http://qydev.weixin.qq.com/wiki/index.php?title=%E5%BE%AE%E4%BF%A1JS%E6%8E%A5%E5%8F%A3#.E8.8E.B7.E5.8F.96.E2.80.9C.E5.88.86.E4.BA.AB.E5.88.B0.E6.9C.8B.E5.8F.8B.E5.9C.88.E2.80.9D.E6.8C.89.E9.92.AE.E7.82.B9.E5.87.BB.E7.8A.B6.E6.80.81.E5.8F.8A.E8.87.AA.E5.AE.9A.E4.B9.89.E5.88.86.E4.BA.AB.E5.86.85.E5.AE.B9.E6.8E.A5.E5.8F.A3",
+        "icon":"icon-jiekouliandong",
+        "name":"微信接口文档",
+        "color":"#1afa29"
+      },
+      {
+        "href":"https://cn.vuejs.org/v2/guide/",
+        "icon":"icon-Vuejs_Logo",
+        "name":"vue中文文档",
+        "color":"#1afa29"
       }
   ]
 }
