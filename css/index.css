@@ -31,7 +31,9 @@ a {
       flex: 1; }
     #warp #head input {
       flex: 3;
-      font-size: 0.3rem; }
+      font-size: 0.3rem;
+      padding-left: 0.1rem;
+      box-sizing: border-box; }
     #warp #head button {
       flex: 1; }
     #warp #head .iconfont {
