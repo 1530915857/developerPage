@@ -249,6 +249,12 @@
         "icon":"icon-Vuejs_Logo",
         "name":"vue中文文档",
         "color":"#1afa29"
+      },
+      {
+        "href":"http://echarts.baidu.com/",
+        "icon":"icon-echart",
+        "name":"eCharts",
+        "color":"#d81e06"
       }
   ]
 }
